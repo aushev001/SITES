@@ -1,0 +1,360 @@
+Uri: https://fonts.googleapis.com/css?family=Inter:700,700i,400,400i&subset=cyrillic
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\css-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Playfair+Display:700,700i,500,500i&subset=cyrillic
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\css-3
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v11/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\s\inter\v11\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v11/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\s\inter\v11\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v11/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\s\inter\v11\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v11/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\s\inter\v11\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v11/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\s\inter\v11\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v11/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\s\inter\v11\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v11/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\s\inter\v11\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v11/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\s\inter\v11\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v11/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\s\inter\v11\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZthjQ.ttf
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZthjQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZthjQ.ttf
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZthjQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_k-UXtXA_A.ttf
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\s\playfairdisplay\v30\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_k-UXtXA_A-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_pqTXtXA_A.ttf
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\s\playfairdisplay\v30\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_pqTXtXA_A-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vXDTbtY.ttf
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vXDTbtY-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDTbtY.ttf
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDTbtY-1.ttf
+Content Type: font/ttf
+
+Uri: https://pokachto12.ukit.me/
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\index-1.htm
+Content Type: text/html
+
+Uri: https://pokachto12.ukit.me/css/devicePublish.min.css?v=2022_10_04T12_51_31_03_00_14a973ca0061fb7eb94fdfbbfd19f58fa8499ccc
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\css\devicePublish.min-1.css
+Content Type: text/css
+
+Uri: https://pokachto12.ukit.me/css/lib/animate.min.css?v=2022_10_04T12_51_31_03_00_14a973ca0061fb7eb94fdfbbfd19f58fa8499ccc
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\css\lib\animate.min-1.css
+Content Type: text/css
+
+Uri: https://pokachto12.ukit.me/css/lib/bootstrap.min.css?v=2022_10_04T12_51_31_03_00_14a973ca0061fb7eb94fdfbbfd19f58fa8499ccc
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\css\lib\bootstrap.min-1.css
+Content Type: text/css
+
+Uri: https://pokachto12.ukit.me/css/require/floatingBlock.css?v=2022_10_04T12_51_31_03_00_14a973ca0061fb7eb94fdfbbfd19f58fa8499ccc
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\css\require\floatingBlock-1.css
+Content Type: text/css
+
+Uri: https://pokachto12.ukit.me/css/require/scroll-animation.css?v=2022_10_04T12_51_31_03_00_14a973ca0061fb7eb94fdfbbfd19f58fa8499ccc
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\css\require\scroll-animation-1.css
+Content Type: text/css
+
+Uri: https://pokachto12.ukit.me/dist-version/css/pub.v1.css?v=2022_10_04T12_51_31_03_00_14a973ca0061fb7eb94fdfbbfd19f58fa8499ccc
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\dist-version\css\pub.v1-1.css
+Content Type: text/css
+
+Uri: https://pokachto12.ukit.me/dist-version/js/pub.v1.bundle.js?v=2022_10_04T12_51_31_03_00_14a973ca0061fb7eb94fdfbbfd19f58fa8499ccc
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\dist-version\js\pub.v1.bundle-1.js
+Content Type: application/javascript
+
+Uri: https://pokachto12.ukit.me/favicon.ico?v=46824784663557417
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://pokachto12.ukit.me/fonts/ukit-published/ukit-published.eot?1586855985
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\fonts\ukit-published\ukit-published-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pokachto12.ukit.me/fonts/ukit-published/ukit-published.svg?1586855985
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\fonts\ukit-published\ukit-published-1.svg
+Content Type: image/svg+xml
+
+Uri: https://pokachto12.ukit.me/fonts/ukit-published/ukit-published.ttf?1586855985
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\fonts\ukit-published\ukit-published-1.ttf
+Content Type: application/octet-stream
+
+Uri: https://pokachto12.ukit.me/fonts/ukit-published/ukit-published.woff2?1586855985
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\fonts\ukit-published\ukit-published-1.woff2
+Content Type: application/octet-stream
+
+Uri: https://pokachto12.ukit.me/fonts/ukit-published/ukit-published.woff?1586855985
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\fonts\ukit-published\ukit-published-1.woff
+Content Type: application/font-woff
+
+Uri: https://pokachto12.ukit.me/img/avatar_placeholder.svg
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\img\avatar_placeholder-1.svg
+Content Type: image/svg+xml
+
+Uri: https://pokachto12.ukit.me/img/constructor/map-placeholder-screenshot-google.jpg
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\img\constructor\map-placeholder-screenshot-google-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pokachto12.ukit.me/img/constructor/map-placeholder-screenshot-yandex.jpg
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\img\constructor\map-placeholder-screenshot-yandex-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pokachto12.ukit.me/img/icons/widget-imageplaceholder.svg
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\img\icons\widget-imageplaceholder-1.svg
+Content Type: image/svg+xml
+
+Uri: https://pokachto12.ukit.me/img/loader.svg
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\img\loader-1.svg
+Content Type: image/svg+xml
+
+Uri: https://pokachto12.ukit.me/img/loader_dark.gif
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\img\loader_dark-1.gif
+Content Type: image/gif
+
+Uri: https://pokachto12.ukit.me/img/loader_light.gif
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\img\loader_light-1.gif
+Content Type: image/gif
+
+Uri: https://pokachto12.ukit.me/img/loading.gif
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\img\loading-1.gif
+Content Type: image/gif
+
+Uri: https://pokachto12.ukit.me/img/red_arrow.png
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\img\red_arrow-1.png
+Content Type: image/png
+
+Uri: https://pokachto12.ukit.me/img/ukit-copyright-dark.svg
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\img\ukit-copyright-dark-1.svg
+Content Type: image/svg+xml
+
+Uri: https://pokachto12.ukit.me/img/ukit-copyright-light.svg
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\img\ukit-copyright-light-1.svg
+Content Type: image/svg+xml
+
+Uri: https://pokachto12.ukit.me/img/upbutton.svg
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\img\upbutton-1.svg
+Content Type: image/svg+xml
+
+Uri: https://pokachto12.ukit.me/js/lib/cssrelpreload.js?v=2022_10_04T12_51_31_03_00_14a973ca0061fb7eb94fdfbbfd19f58fa8499ccc
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\js\lib\cssrelpreload-1.js
+Content Type: application/javascript
+
+Uri: https://pokachto12.ukit.me/js/lib/modernizr-webp.js?v=2022_10_04T12_51_31_03_00_14a973ca0061fb7eb94fdfbbfd19f58fa8499ccc
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\js\lib\modernizr-webp-1.js
+Content Type: application/javascript
+
+Uri: https://pokachto12.ukit.me/js/lib/requirejs.min.js?v=2022_10_04T12_51_31_03_00_14a973ca0061fb7eb94fdfbbfd19f58fa8499ccc
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\js\lib\requirejs.min-1.js
+Content Type: application/javascript
+
+Uri: https://pokachto12.ukit.me/js/ulib/backgroundBlockColor.js?v=2022_10_04T12_51_31_03_00_14a973ca0061fb7eb94fdfbbfd19f58fa8499ccc
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\js\ulib\backgroundBlockColor-1.js
+Content Type: application/javascript
+
+Uri: https://pokachto12.ukit.me/js/ulib/critical.js?v=2022_10_04T12_51_31_03_00_14a973ca0061fb7eb94fdfbbfd19f58fa8499ccc
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\js\ulib\critical-1.js
+Content Type: application/javascript
+
+Uri: https://pokachto12.ukit.me/js/ulib/floatingBlock.js?v=2022_10_04T12_51_31_03_00_14a973ca0061fb7eb94fdfbbfd19f58fa8499ccc
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\js\ulib\floatingBlock-1.js
+Content Type: application/javascript
+
+Uri: https://pokachto12.ukit.me/js/ulib/orderForm.js?v=2022_10_04T12_51_31_03_00_14a973ca0061fb7eb94fdfbbfd19f58fa8499ccc
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\js\ulib\orderForm-1.js
+Content Type: application/javascript
+
+Uri: https://pokachto12.ukit.me/js/ulib/performance.js?v=2022_10_04T12_51_31_03_00_14a973ca0061fb7eb94fdfbbfd19f58fa8499ccc
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\js\ulib\performance-1.js
+Content Type: application/javascript
+
+Uri: https://pokachto12.ukit.me/js/ulib/scroll-animation.js?v=2022_10_04T12_51_31_03_00_14a973ca0061fb7eb94fdfbbfd19f58fa8499ccc
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\js\ulib\scroll-animation-1.js
+Content Type: application/javascript
+
+Uri: https://pokachto12.ukit.me/sitecss/srcset-634eade832d8bb5ddb6edb4b-all.css?v=1
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\sitecss\srcset-634eade832d8bb5ddb6edb4b-all-1.css
+Content Type: text/css
+
+Uri: https://pokachto12.ukit.me/sitecss/typography.css?v=1
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\sitecss\typography-1.css
+Content Type: text/css
+
+Uri: https://pokachto12.ukit.me/templates/new_translation/css/main-g-theme-site-1-desktop.css
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\templates\new_translation\css\main-g-theme-site-1-desktop-1.css
+Content Type: text/css
+
+Uri: https://pokachto12.ukit.me/templates/new_translation/css/main-g-theme-site-1-phone.css
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\templates\new_translation\css\main-g-theme-site-1-phone-1.css
+Content Type: text/css
+
+Uri: https://pokachto12.ukit.me/templates/new_translation/css/main-g-theme-site-1-tablet.css
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\templates\new_translation\css\main-g-theme-site-1-tablet-1.css
+Content Type: text/css
+
+Uri: https://pokachto12.ukit.me/templates/new_translation/fonts/fontawesome/fontawesome-webfont.eot
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\templates\new_translation\fonts\fontawesome\fontawesome-webfont-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pokachto12.ukit.me/templates/new_translation/fonts/fontawesome/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\templates\new_translation\fonts\fontawesome\fontawesome-webfont-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pokachto12.ukit.me/templates/new_translation/fonts/fontawesome/fontawesome-webfont.ttf
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\templates\new_translation\fonts\fontawesome\fontawesome-webfont-1.ttf
+Content Type: application/octet-stream
+
+Uri: https://pokachto12.ukit.me/templates/new_translation/fonts/fontawesome/fontawesome-webfont.woff
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\templates\new_translation\fonts\fontawesome\fontawesome-webfont-1.woff
+Content Type: application/font-woff
+
+Uri: https://pokachto12.ukit.me/templates/new_translation/fonts/fontawesome/fontawesome-webfont.woff2
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\templates\new_translation\fonts\fontawesome\fontawesome-webfont-1.woff2
+Content Type: application/octet-stream
+
+Uri: https://pokachto12.ukit.me/templates/new_translation/fonts/icomoon/icomoon.eot?-6ephfk
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\templates\new_translation\fonts\icomoon\icomoon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pokachto12.ukit.me/templates/new_translation/fonts/icomoon/icomoon.svg?-6ephfk
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\templates\new_translation\fonts\icomoon\icomoon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://pokachto12.ukit.me/templates/new_translation/fonts/icomoon/icomoon.ttf?-6ephfk
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\templates\new_translation\fonts\icomoon\icomoon-1.ttf
+Content Type: application/octet-stream
+
+Uri: https://pokachto12.ukit.me/templates/new_translation/fonts/icomoon/icomoon.woff?-6ephfk
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\templates\new_translation\fonts\icomoon\icomoon-1.woff
+Content Type: application/font-woff
+
+Uri: https://pokachto12.ukit.me/templates/new_translation/fonts/icomoon/iconscontacts.eot?-6ephfk
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\templates\new_translation\fonts\icomoon\iconscontacts-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pokachto12.ukit.me/templates/new_translation/fonts/icomoon/iconscontacts.svg?-6ephfk
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\templates\new_translation\fonts\icomoon\iconscontacts-1.svg
+Content Type: image/svg+xml
+
+Uri: https://pokachto12.ukit.me/templates/new_translation/fonts/icomoon/iconscontacts.ttf?-6ephfk
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\templates\new_translation\fonts\icomoon\iconscontacts-1.ttf
+Content Type: application/octet-stream
+
+Uri: https://pokachto12.ukit.me/templates/new_translation/fonts/icomoon/iconscontacts.woff?-6ephfk
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\templates\new_translation\fonts\icomoon\iconscontacts-1.woff
+Content Type: application/font-woff
+
+Uri: https://pokachto12.ukit.me/templates/new_translation/img/moimirbw.svg
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\templates\new_translation\img\moimirbw-1.svg
+Content Type: image/svg+xml
+
+Uri: https://pokachto12.ukit.me/templates/new_translation/img/sliderleft.svg
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\templates\new_translation\img\sliderleft-1.svg
+Content Type: image/svg+xml
+
+Uri: https://pokachto12.ukit.me/templates/new_translation/img/sliderright.svg
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\templates\new_translation\img\sliderright-1.svg
+Content Type: image/svg+xml
+
+Uri: https://pokachto12.ukit.me/templates/new_translation/img/Telega.svg
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\templates\new_translation\img\Telega-1.svg
+Content Type: image/svg+xml
+
+Uri: https://pokachto12.ukit.me/widgets/backCall/img/icon/phone.svg
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\widgets\backCall\img\icon\phone-1.svg
+Content Type: image/svg+xml
+
+Uri: https://pokachto12.ukit.me/widgets/cart/fonts/cart.eot?3v9alv
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\widgets\cart\fonts\cart-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pokachto12.ukit.me/widgets/cart/fonts/cart.svg?3v9alv
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\widgets\cart\fonts\cart-1.svg
+Content Type: image/svg+xml
+
+Uri: https://pokachto12.ukit.me/widgets/cart/fonts/cart.ttf?3v9alv
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\widgets\cart\fonts\cart-1.ttf
+Content Type: application/octet-stream
+
+Uri: https://pokachto12.ukit.me/widgets/cart/fonts/cart.woff?3v9alv
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\widgets\cart\fonts\cart-1.woff
+Content Type: application/font-woff
+
+Uri: https://pokachto12.ukit.me/widgets/feedBack/img/recaptcha.png
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\widgets\feedBack\img\recaptcha-1.png
+Content Type: image/png
+
+Uri: https://pokachto12.ukit.me/widgets/gallery/img/next.png
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\widgets\gallery\img\next-1.png
+Content Type: image/png
+
+Uri: https://pokachto12.ukit.me/widgets/gallery/img/prev.png
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\widgets\gallery\img\prev-1.png
+Content Type: image/png
+
+Uri: https://pokachto12.ukit.me/widgets/pinterest/img/ico.png
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\widgets\pinterest\img\ico-1.png
+Content Type: image/png
+
+Uri: https://pokachto12.ukit.me/widgets/sliderWysiwyg/img/next.png
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\widgets\sliderWysiwyg\img\next-1.png
+Content Type: image/png
+
+Uri: https://pokachto12.ukit.me/widgets/sliderWysiwyg/img/prev.png
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\widgets\sliderWysiwyg\img\prev-1.png
+Content Type: image/png
+
+Uri: https://pokachto12.ukit.me/widgets/weather/fonts/artill_clean_icons-webfont.eot
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\widgets\weather\fonts\artill_clean_icons-webfont-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pokachto12.ukit.me/widgets/weather/fonts/artill_clean_icons-webfont.eot?
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\widgets\weather\fonts\artill_clean_icons-webfont-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pokachto12.ukit.me/widgets/weather/fonts/artill_clean_icons-webfont.svg
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\widgets\weather\fonts\artill_clean_icons-webfont-1.svg
+Content Type: image/svg+xml
+
+Uri: https://pokachto12.ukit.me/widgets/weather/fonts/artill_clean_icons-webfont.ttf
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\widgets\weather\fonts\artill_clean_icons-webfont-1.ttf
+Content Type: application/octet-stream
+
+Uri: https://pokachto12.ukit.me/widgets/weather/fonts/artill_clean_icons-webfont.woff
+File Name: C:\Downloaded Web Sites\pokachto12.ukit.me\widgets\weather\fonts\artill_clean_icons-webfont-1.woff
+Content Type: application/font-woff
+
